@@ -1,0 +1,8 @@
+.idea
+.svn
+
+www/assets/*
+!www/assets/readme.md
+
+
+
